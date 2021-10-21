@@ -1,0 +1,204 @@
+.navbar{
+    background-color: #1B242F;
+    height: 70px;
+    width: 100%;
+    border-top: 0px;
+}
+body{
+    font-family:  "Amazon Ember",Arial,sans-serif;
+    margin: 0px;
+    
+}
+.mlogo{
+    width: 116px;
+    height: 35px;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.signin{
+    font-size: 22p;
+    float: right;
+    margin-right: 45px;
+    margin-top: 20px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.tr{
+    display: flex;
+    flex-direction: row;
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+    color: aliceblue;
+    
+}
+.en{
+    margin-left: 5px; 
+}
+.imgglobe{
+    height: 22px;
+    width: 22px;
+}
+.login{
+    position: relative;
+    float: right;
+    height: 10cm;
+}
+.login-image{
+    
+    height: 500px;
+    background-image: url("https://m.media-amazon.com/images/G/31/AmazonVideo/2019/1102620_MLP_1440x675_apv189_V3._CB639304410_.jpg");
+}
+
+.login-title{
+    font-family:  "Amazon Ember",Arial,sans-serif;
+    font-size: 40px;
+    position: absolute;
+    left: 60px;
+    top: 90px;
+    color: aliceblue;
+    padding-top: 60px;
+
+}
+.login-body{
+    color: aliceblue;
+    position: absolute;
+    left: 60px;
+    top: 170px;
+    font-size: 21px;
+    padding-top: 60px;
+
+}
+.button{
+    background-color: #4198C3;
+    height: 15px;
+    width: 150px;
+    color: aliceblue;
+   padding: 20px 70px;
+   text-align: center;
+   float:left;
+   margin-top: 260px;
+   margin-left:100px;
+   text-decoration: none;
+   
+
+}
+.left-sec{
+    color: black;
+    width: 60%;
+    float: left;
+    padding-left: 89px;
+    padding-top: 20px;
+    font-size: 25px;
+
+
+}
+.right-sec{
+width: 30%;
+float: right;
+padding-right: 30px;
+padding-top: 15px;
+}
+.channel-grid{
+
+height: 80.98px;
+width: 117.36px;
+margin: 7px;
+float: right;
+
+}
+.channels{
+    padding-top: 35px;
+}
+.membership{
+    background-image: url('https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/PRIME_multi-benefit_MAGNET_2X._CB1519820207_.jpg');
+    height: 500px;
+    margin-top:400px;
+}
+.membership-text{
+    color: aliceblue;
+    width: 50%;
+    padding-left: 20px;
+    padding-top: 25px;
+    font-size: 24px;
+}
+.button2{
+    background-color: #4198C3;
+    height: 15px;
+    width: 100px;
+    color: aliceblue;
+   padding: 20px 70px;
+   text-align: center;
+   float: left;
+   margin-left: 45px;
+   margin-top: 40px;
+   text-decoration: none;
+}
+.tv{
+    background-image: url('https://images-na.ssl-images-amazon.com/images/G/01/digital/video/Magellan_MLP/MLP_Template_Image_Left.jpg');
+    width: 1349px;
+    height: 525px;
+}
+.tv-text{
+    color: aliceblue;
+    width: 50%;
+    padding-left: 20px;
+    padding-top: 25px;
+    font-size: 24px;
+    float: right;
+}
+.features{
+    margin-top: 90px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+}
+.fe-img{
+    float: left;
+    padding-left: 9px;
+    padding-top: 30px;
+}
+.image-title{
+    margin-top: 300px;
+    float: left;
+    padding-left: 20px;
+    
+}
+.family{
+    background-image: url("https://m.media-amazon.com/images/G/01/digital/video/Magellan_MLP/IN-kids-30Jan._CB1517304519_.jpg");
+    width: 1349px;
+    height: 500px;
+}
+.button3{
+    background-color: #4198C3;
+    height: 15px;
+    width: 100px;
+    color: aliceblue;
+   padding: 20px 70px;
+   text-align: center;
+   float: left;
+   margin-left: 800px;
+   margin-top: 40px;
+   text-decoration: none;
+    
+}
+.footer{
+    background-color: #222222;
+    width: 100%;
+    height: 150px;
+}
+.footer-logo{
+padding-left: 659px;
+padding-top: 20px;
+
+}
+.foot{
+padding-left: 400px;
+padding-top: 20px;
+
+}
+
